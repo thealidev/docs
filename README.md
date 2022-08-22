@@ -1,2 +1,1 @@
-# docs
-Some Docs By The Ali Dev
+# Some Docs By The Ali Dev
