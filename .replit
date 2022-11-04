@@ -1,4 +1,4 @@
-run = "echo Hi!"
+run = "npm install && npm start"
 
 [nix]
 channel = "stable-21_11"
