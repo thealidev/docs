@@ -1,4 +1,4 @@
-# Decrypted And Updated To Document Blog Site
+# Fully Decrypted And Updated To Document Blog Site
 ## Visit Now :
 #### `https://thealidev.epizy.com/category/docs/`
 
