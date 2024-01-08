@@ -38,3 +38,7 @@ Raja Muhammad Ali
 Raja Muhammad Ali  
 03440708494
 ```
+## Email (For Donation)
+```
+thealidevmail+donate@gmail.com
+```
