@@ -13,14 +13,14 @@ TH6mzsMJ33r56GQs6v3RDmhRkaWxunnp8A
 ```
 ## SOL
 ```
-7zZC3CAGZeVYu8qXGMGZ7ZDhidUGjQfFMXNMP9KLMPGh
+3pr2vYraHxtZ4ZCThAXaRCR8jWaB3owpmocFxg9Cw7R5
 ```
 ## UBL Bank Transfer (PKR Only)
 ```
 Raja Muhammad Ali Asghar  
 0372295548539
 ```
-## Easypaisa (PKR Only)
+## Easypaisa / Jazzcash / Nayapay / Sadapay (PKR Only)
 ```
 Raja Muhammad Ali Asghar  
 03309246239
